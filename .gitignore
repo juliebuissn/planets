@@ -1,0 +1,4 @@
+*.CSV
+results/*
+!results/data/
+
